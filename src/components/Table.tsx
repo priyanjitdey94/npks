@@ -1,4 +1,3 @@
-import styles from '@/styles/Table.module.css';
 
 const Table = () => {
     return (

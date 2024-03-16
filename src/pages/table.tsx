@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
 import { Inter } from "next/font/google";
+import styles from "@/styles/Home.module.css";
 import { useQuery } from "@tanstack/react-query";
 import Table from "@/components/Table";
 
