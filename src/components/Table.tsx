@@ -19,9 +19,9 @@ const Table = () => {
                     // background-color: #dddddd;
                 }
             `}</style>
-            <table className={styles.table}>
+            <table>
                 <tbody>
-                    <tr className={styles.tr}>
+                    <tr>
                         <th>Company</th>
                         <th>Contract</th>
                         <th>Country</th>
